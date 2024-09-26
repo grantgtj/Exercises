@@ -2,6 +2,7 @@ public class Main{
     
     private String greeting;
     private String altgreeting;
+    private String somethingnew;
 
     public Main (){
         greeting = "Hello World!";
